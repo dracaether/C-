@@ -16,3 +16,25 @@ Also, these codes are written in **C++** and was tested on **Turbo C++**. I am f
 ----
 ### Notice:
 This repository is made to help aspiring programmers and guide them to make their programs work. I am no professional programmer nor instructor, I am just a person who likes to help anyone I can.
+
+----
+### How to download?
+
+#### For Windows users:
+Click the **clone or download** green button on the top of the repository. It downloads a .zip file.
+
+#### For Linux users (like me!):
+Clone the repo via git hub:
+```
+git clone https://github.com/dracaether/C-.git
+```
+
+then go to the folder:
+```
+cd C-
+```
+
+or open the folder with a file browser of your choice [example, nautilus].
+
+#### For Mac users:
+Same with Linux users and Windows users. Pick your poison.
