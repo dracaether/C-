@@ -1,4 +1,7 @@
 # C++
+
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
+
 // this is a repository of all my modified source codes written in C++ (TurboC++).
 
 
