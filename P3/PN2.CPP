@@ -8,7 +8,7 @@ void main()
     char cpy[15];
     int i=0, k=0, length=13;
     clrscr();
-    cout<<"Erin Casseaspey S. Parino\n";
+    cout<<"Erin Casseapey S. Parino\n";
     cout<<"BSIT-01\n";
 
     cout<<"Please enter a string value [12 characters max]: ";
