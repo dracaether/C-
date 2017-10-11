@@ -18,7 +18,8 @@ void main()
     cout<<"You have entered "<<inputx<<endl;
     length=strlen(inputx);
     
-    
+    // length and '#' checker
+    // --it's not perfect; there are times that some strings could bypass the checker. will improve it someday. too lazy.
     while (i<length)
     {
         
@@ -52,7 +53,8 @@ void main()
     }
 
     cout<<"Phone number: ";
-
+    
+    // switch case
     for(k=0;k<length;k++)
         {
             switch(cpy[k])
